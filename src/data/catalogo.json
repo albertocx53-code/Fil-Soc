@@ -1,0 +1,1322 @@
+{
+    "titulos": [
+        {
+            "ano": 1998,
+            "arte": {
+                "c1": "#0b1a3a",
+                "c2": "#050811",
+                "motif": "dome",
+                "accent": "#e50914",
+                "kicker": "Filosofia · Sociologia"
+            },
+            "pais": "Estados Unidos",
+            "slug": "o-show-de-truman",
+            "tipo": "filme",
+            "faixa": [
+                "Ensino Médio",
+                "Ensino Superior"
+            ],
+            "ficha": {
+                "dicas": [
+                    "Com turmas do 1º ano, foque na comparação com a caverna antes de introduzir Debord.",
+                    "Com turmas mais avançadas, aprofunde a ideia de panoptismo em Foucault."
+                ],
+                "plano": [
+                    {
+                        "etapa": "Sensibilização",
+                        "tempo": "10 min",
+                        "descricao": "Pergunte à turma: como saberíamos se tudo ao nosso redor fosse encenado? Registre as respostas no quadro."
+                    },
+                    {
+                        "etapa": "Exibição",
+                        "tempo": "103 min (ou trechos)",
+                        "descricao": "Exiba o filme completo ou a sequência inicial e o desfecho, se o tempo for curto."
+                    },
+                    {
+                        "etapa": "Leitura de apoio",
+                        "tempo": "20 min",
+                        "descricao": "Leitura comentada de trecho da alegoria da caverna (A República, livro VII)."
+                    },
+                    {
+                        "etapa": "Debate",
+                        "tempo": "25 min",
+                        "descricao": "Use as perguntas de debate em roda, relacionando cada etapa da saída da caverna a momentos do filme."
+                    },
+                    {
+                        "etapa": "Síntese",
+                        "tempo": "10 min",
+                        "descricao": "Cada aluno escreve, em três linhas, o que seria a sua caverna hoje."
+                    }
+                ],
+                "porQue": "Uma porta de entrada acessível para a alegoria da caverna e para a discussão sobre mídia, espetáculo e vigilância. Os alunos reconhecem o próprio cotidiano de câmeras e redes sociais na história de Truman.",
+                "roteiro": [
+                    {
+                        "momento": "Primeiros minutos",
+                        "observar": "Enquadramentos que imitam câmeras escondidas e o efeito disso sobre o espectador."
+                    },
+                    {
+                        "momento": "O refletor que cai do céu",
+                        "observar": "A primeira fissura no cenário: o início da dúvida."
+                    },
+                    {
+                        "momento": "A travessia de barco",
+                        "observar": "O medo como mecanismo de controle."
+                    },
+                    {
+                        "momento": "A porta no horizonte",
+                        "observar": "A escolha final e o sentido da liberdade."
+                    }
+                ],
+                "conceitos": [
+                    "Alegoria da caverna",
+                    "Aparência e realidade",
+                    "Sociedade do espetáculo",
+                    "Vigilância",
+                    "Liberdade"
+                ],
+                "objetivos": [
+                    "Relacionar a trajetória de Truman à alegoria da caverna de Platão",
+                    "Identificar mecanismos de controle e vigilância representados no filme",
+                    "Discutir o papel da mídia na construção da percepção da realidade"
+                ],
+                "perguntas": [
+                    "Truman era feliz antes de descobrir a verdade? A felicidade baseada em uma ilusão tem valor?",
+                    "Christof afirma proteger Truman do mundo real. Isso justifica a manipulação?",
+                    "Quem é mais responsável: o criador do programa ou o público que assiste?",
+                    "Em que aspectos a nossa vida nas redes sociais se parece com a de Truman?"
+                ],
+                "atividades": [
+                    {
+                        "nome": "Mapa da caverna",
+                        "descricao": "Em grupos, os alunos montam um quadro comparando elementos da alegoria (sombras, correntes, saída, sol) com cenas do filme."
+                    },
+                    {
+                        "nome": "Diário de vigilância",
+                        "descricao": "Durante um dia, cada aluno anota quantas vezes foi registrado por câmeras, aplicativos ou redes. Discussão na aula seguinte."
+                    }
+                ],
+                "pensadores": [
+                    "Platão",
+                    "Guy Debord",
+                    "Michel Foucault"
+                ],
+                "referencias": [
+                    "PLATÃO. A República, livro VII.",
+                    "DEBORD, Guy. A sociedade do espetáculo.",
+                    "FOUCAULT, Michel. Vigiar e punir."
+                ]
+            },
+            "temas": [
+                "mito-da-caverna",
+                "cultura-e-sociedade",
+                "para-debate",
+                "debord",
+                "foucault",
+                "platao",
+                "teoria-do-conhecimento",
+                "vigilancia"
+            ],
+            "elenco": [
+                "Jim Carrey",
+                "Laura Linney",
+                "Ed Harris"
+            ],
+            "slides": [
+            ],
+            "titulo": "O Show de Truman",
+            "videos": [
+            ],
+            "chamada": "E se toda a sua vida fosse um cenário?",
+            "direcao": [
+                "Peter Weir"
+            ],
+            "duracao": 103,
+            "generos": [
+                "Drama",
+                "Comédia"
+            ],
+            "idiomas": [
+                "inglês"
+            ],
+            "sinopse": "Truman Burbank leva uma vida comum em uma cidade perfeita, sem saber que tudo à sua volta é um gigantesco estúdio de televisão e que cada momento de sua existência é transmitido ao vivo para o mundo. Quando pequenas falhas começam a aparecer, ele passa a questionar a realidade que sempre conheceu.",
+            "destaque": true,
+            "materiais": [
+            ],
+            "disciplinas": [
+                "filosofia",
+                "sociologia"
+            ],
+            "ondeAssistir": [
+                {
+                    "url": "https://www.justwatch.com/br/busca?q=O%20Show%20de%20Truman",
+                    "rotulo": "Consultar serviços legais no JustWatch"
+                }
+            ],
+            "popularidade": 98,
+            "ordemDestaque": 1,
+            "tituloOriginal": "The Truman Show"
+        },
+        {
+            "ano": 1936,
+            "arte": {
+                "c1": "#2a2a2a",
+                "c2": "#0a0a0a",
+                "motif": "gears",
+                "accent": "#d4a017",
+                "kicker": "Sociologia"
+            },
+            "pais": "Estados Unidos",
+            "slug": "tempos-modernos",
+            "tipo": "filme",
+            "faixa": [
+                "Ensino Fundamental II",
+                "Ensino Médio"
+            ],
+            "ficha": {
+                "dicas": [
+                    "Por ser majoritariamente sem diálogos, o filme funciona bem com turmas que têm dificuldade com legendas.",
+                    "Para o Ensino Médio, conecte com a discussão sobre plataformização do trabalho."
+                ],
+                "plano": [
+                    {
+                        "etapa": "Problematização",
+                        "tempo": "10 min",
+                        "descricao": "Mostre a imagem de uma linha de montagem atual e pergunte: o que mudou desde o início do século XX?"
+                    },
+                    {
+                        "etapa": "Exibição",
+                        "tempo": "87 min (ou trechos)",
+                        "descricao": "Exiba o filme completo ou as sequências da fábrica e da máquina de alimentação."
+                    },
+                    {
+                        "etapa": "Conceito",
+                        "tempo": "20 min",
+                        "descricao": "Apresente as quatro dimensões da alienação: em relação ao produto, ao processo, a si mesmo e aos outros."
+                    },
+                    {
+                        "etapa": "Debate",
+                        "tempo": "20 min",
+                        "descricao": "Perguntas de debate em grupos, com registro em cartaz."
+                    }
+                ],
+                "porQue": "Um clássico sem diálogos falados na maior parte do tempo, ideal para discutir trabalho industrial, alienação e desemprego com qualquer turma. O humor físico de Chaplin prende a atenção e abre espaço para análise crítica.",
+                "roteiro": [
+                    {
+                        "momento": "Abertura",
+                        "observar": "A montagem que aproxima trabalhadores e um rebanho de ovelhas."
+                    },
+                    {
+                        "momento": "A linha de montagem",
+                        "observar": "O ritmo imposto pela máquina sobre o corpo."
+                    },
+                    {
+                        "momento": "A máquina de alimentação",
+                        "observar": "A tentativa de eliminar qualquer tempo improdutivo."
+                    },
+                    {
+                        "momento": "O final na estrada",
+                        "observar": "A esperança possível fora da engrenagem."
+                    }
+                ],
+                "conceitos": [
+                    "Alienação do trabalho",
+                    "Taylorismo e fordismo",
+                    "Divisão do trabalho",
+                    "Desemprego",
+                    "Racionalização"
+                ],
+                "objetivos": [
+                    "Compreender o conceito de alienação do trabalho em Marx",
+                    "Identificar características da produção em série",
+                    "Relacionar a crise retratada no filme a transformações atuais do mundo do trabalho"
+                ],
+                "perguntas": [
+                    "Por que o operário continua apertando parafusos mesmo fora da fábrica?",
+                    "O que a máquina de alimentação revela sobre a relação entre empresa e trabalhador?",
+                    "A tecnologia liberta ou aprisiona quem trabalha?",
+                    "Que semelhanças existem entre a linha de montagem e o trabalho por aplicativos?"
+                ],
+                "atividades": [
+                    {
+                        "nome": "Ontem e hoje",
+                        "descricao": "Os alunos entrevistam um familiar sobre sua rotina de trabalho e comparam com as cenas do filme."
+                    },
+                    {
+                        "nome": "Linha de montagem",
+                        "descricao": "Dinâmica em sala: produção em série de dobraduras com tarefas fragmentadas, seguida de discussão sobre a experiência."
+                    }
+                ],
+                "pensadores": [
+                    "Karl Marx",
+                    "Max Weber"
+                ],
+                "referencias": [
+                    "MARX, Karl. Manuscritos econômico-filosóficos.",
+                    "WEBER, Max. A ética protestante e o espírito do capitalismo."
+                ]
+            },
+            "temas": [
+                "alienacao",
+                "para-debate",
+                "marx",
+                "weber",
+                "trabalho-e-capitalismo"
+            ],
+            "elenco": [
+                "Charles Chaplin",
+                "Paulette Goddard"
+            ],
+            "slides": [
+            ],
+            "titulo": "Tempos Modernos",
+            "videos": [
+            ],
+            "chamada": "O homem contra a engrenagem.",
+            "direcao": [
+                "Charles Chaplin"
+            ],
+            "duracao": 87,
+            "generos": [
+                "Comédia",
+                "Drama"
+            ],
+            "idiomas": [
+                "inglês"
+            ],
+            "sinopse": "Um operário de fábrica é levado ao limite pelo ritmo das linhas de montagem. Entre prisões, empregos perdidos e o encontro com uma jovem órfã, ele atravessa a Grande Depressão tentando sobreviver em um mundo que trata pessoas como peças de máquina.",
+            "destaque": true,
+            "materiais": [
+            ],
+            "disciplinas": [
+                "sociologia",
+                "filosofia"
+            ],
+            "ondeAssistir": [
+                {
+                    "url": "https://www.justwatch.com/br/busca?q=Tempos%20Modernos",
+                    "rotulo": "Consultar serviços legais no JustWatch"
+                }
+            ],
+            "popularidade": 91,
+            "ordemDestaque": 2,
+            "tituloOriginal": "Modern Times"
+        },
+        {
+            "ano": 1989,
+            "arte": {
+                "c1": "#3a1f0b",
+                "c2": "#0d0703",
+                "motif": "candle",
+                "accent": "#e8b04b",
+                "kicker": "Filosofia"
+            },
+            "pais": "Estados Unidos",
+            "slug": "sociedade-dos-poetas-mortos",
+            "tipo": "filme",
+            "faixa": [
+                "Ensino Médio",
+                "Ensino Superior"
+            ],
+            "ficha": {
+                "dicas": [
+                    "O filme aborda suicídio. Prepare a turma, avise com antecedência e tenha à mão informações sobre o CVV (188).",
+                    "Prefira exibir trechos com turmas mais jovens."
+                ],
+                "plano": [
+                    {
+                        "etapa": "Abertura",
+                        "tempo": "10 min",
+                        "descricao": "Pergunta disparadora: alguém já decidiu algo importante por você?"
+                    },
+                    {
+                        "etapa": "Exibição",
+                        "tempo": "128 min (ou trechos)",
+                        "descricao": "Exiba o filme ou as cenas da primeira aula, da caverna e do desfecho."
+                    },
+                    {
+                        "etapa": "Texto",
+                        "tempo": "25 min",
+                        "descricao": "Leitura do início de Resposta à pergunta: o que é o Esclarecimento?, de Kant."
+                    },
+                    {
+                        "etapa": "Debate",
+                        "tempo": "25 min",
+                        "descricao": "Debate guiado pelas perguntas, relacionando cada personagem à ideia de menoridade."
+                    }
+                ],
+                "porQue": "Um filme sobre educação, autonomia e o preço de pensar diferente. Funciona para discutir o esclarecimento kantiano, a tensão entre tradição e liberdade e o próprio papel da escola.",
+                "roteiro": [
+                    {
+                        "momento": "A primeira aula",
+                        "observar": "As fotografias dos antigos alunos e o convite ao carpe diem."
+                    },
+                    {
+                        "momento": "Subir na mesa",
+                        "observar": "Mudar o ponto de vista como gesto filosófico."
+                    },
+                    {
+                        "momento": "A peça de teatro",
+                        "observar": "O conflito entre desejo pessoal e expectativa familiar."
+                    },
+                    {
+                        "momento": "O desfecho",
+                        "observar": "O gesto coletivo dos alunos e seu significado."
+                    }
+                ],
+                "conceitos": [
+                    "Autonomia",
+                    "Esclarecimento",
+                    "Tradição e autoridade",
+                    "Carpe diem",
+                    "Desobediência"
+                ],
+                "objetivos": [
+                    "Discutir o conceito de esclarecimento como saída da menoridade",
+                    "Analisar a relação entre autoridade, tradição e liberdade individual",
+                    "Refletir sobre os limites e responsabilidades da autonomia"
+                ],
+                "perguntas": [
+                    "O professor Keating incentiva a autonomia ou impõe a sua própria visão aos alunos?",
+                    "Pensar por conta própria é sempre seguro? Quem paga o preço?",
+                    "Qual o papel da escola: transmitir tradição ou formar pensamento crítico?",
+                    "O que significa, hoje, aproveitar o dia?"
+                ],
+                "atividades": [
+                    {
+                        "nome": "Carta a si mesmo",
+                        "descricao": "Cada aluno escreve uma carta sobre uma escolha que gostaria de fazer com mais autonomia."
+                    },
+                    {
+                        "nome": "Júri dos personagens",
+                        "descricao": "Grupos defendem ou acusam Keating, o diretor da escola e o pai de Neil."
+                    }
+                ],
+                "pensadores": [
+                    "Immanuel Kant",
+                    "Henry David Thoreau",
+                    "Horácio"
+                ],
+                "referencias": [
+                    "KANT, Immanuel. Resposta à pergunta: o que é o Esclarecimento?",
+                    "THOREAU, Henry David. Walden."
+                ]
+            },
+            "temas": [
+                "educacao",
+                "esclarecimento",
+                "thoreau",
+                "kant",
+                "etica-e-moral"
+            ],
+            "elenco": [
+                "Robin Williams",
+                "Ethan Hawke"
+            ],
+            "slides": [
+            ],
+            "titulo": "Sociedade dos Poetas Mortos",
+            "videos": [
+            ],
+            "chamada": "Aproveite o dia.",
+            "direcao": [
+                "Peter Weir"
+            ],
+            "duracao": 128,
+            "generos": [
+                "Drama"
+            ],
+            "idiomas": [
+                "inglês"
+            ],
+            "sinopse": "Em um rígido internato masculino dos anos 1950, um professor de literatura incentiva os alunos a pensar por conta própria, a ler poesia com paixão e a questionar o caminho que outros traçaram para eles. A liberdade recém-descoberta, porém, entra em choque com a tradição e a autoridade.",
+            "destaque": true,
+            "materiais": [
+            ],
+            "disciplinas": [
+                "filosofia"
+            ],
+            "ondeAssistir": [
+                {
+                    "url": "https://www.justwatch.com/br/busca?q=Sociedade%20dos%20Poetas%20Mortos",
+                    "rotulo": "Consultar serviços legais no JustWatch"
+                }
+            ],
+            "popularidade": 88,
+            "ordemDestaque": 3,
+            "tituloOriginal": "Dead Poets Society"
+        },
+        {
+            "ano": 2008,
+            "arte": {
+                "c1": "#3d0006",
+                "c2": "#0a0002",
+                "motif": "wave",
+                "accent": "#ff2a2a",
+                "kicker": "Filosofia política"
+            },
+            "pais": "Alemanha",
+            "slug": "a-onda",
+            "tipo": "filme",
+            "faixa": [
+                "Ensino Médio",
+                "Ensino Superior"
+            ],
+            "ficha": {
+                "dicas": [
+                    "O filme tem cenas de violência no desfecho; avalie a faixa etária da turma.",
+                    "Evite reproduzir o experimento em sala: discuta-o."
+                ],
+                "plano": [
+                    {
+                        "etapa": "Pergunta inicial",
+                        "tempo": "10 min",
+                        "descricao": "A turma responde anonimamente: uma ditadura poderia surgir hoje no Brasil?"
+                    },
+                    {
+                        "etapa": "Exibição",
+                        "tempo": "107 min",
+                        "descricao": "Exibição do filme."
+                    },
+                    {
+                        "etapa": "Conceito",
+                        "tempo": "20 min",
+                        "descricao": "Apresente traços do totalitarismo segundo Arendt: ideologia, terror, massa e isolamento."
+                    },
+                    {
+                        "etapa": "Debate",
+                        "tempo": "25 min",
+                        "descricao": "Retome as respostas anônimas iniciais e compare com o que o filme mostrou."
+                    }
+                ],
+                "porQue": "Mostra, em ritmo de suspense, como mecanismos autoritários podem surgir rapidamente em um grupo comum. Excelente para tratar de totalitarismo, conformidade e responsabilidade individual.",
+                "roteiro": [
+                    {
+                        "momento": "A escolha do tema",
+                        "observar": "A crença inicial de que a autocracia é coisa do passado."
+                    },
+                    {
+                        "momento": "Uniforme e saudação",
+                        "observar": "Símbolos que criam pertencimento e exclusão."
+                    },
+                    {
+                        "momento": "Os que recusam",
+                        "observar": "Como o grupo trata quem não adere."
+                    },
+                    {
+                        "momento": "O discurso final",
+                        "observar": "A virada e a reação dos alunos."
+                    }
+                ],
+                "conceitos": [
+                    "Autocracia",
+                    "Totalitarismo",
+                    "Conformidade social",
+                    "Identidade de grupo",
+                    "Responsabilidade"
+                ],
+                "objetivos": [
+                    "Compreender características de regimes autoritários",
+                    "Identificar mecanismos de pressão de grupo e exclusão",
+                    "Discutir a responsabilidade individual diante de movimentos coletivos"
+                ],
+                "perguntas": [
+                    "Por que os alunos aderem tão rápido ao movimento?",
+                    "Que símbolos e regras fortaleceram o grupo? Que preço tiveram?",
+                    "Quem é responsável pelo desfecho: o professor, os alunos ou a escola?",
+                    "Poderia acontecer algo parecido na nossa escola?"
+                ],
+                "atividades": [
+                    {
+                        "nome": "Linha do tempo da Onda",
+                        "descricao": "Grupos reconstroem dia a dia a escalada do movimento, apontando o momento em que o experimento perdeu o controle."
+                    },
+                    {
+                        "nome": "Contra-argumentos",
+                        "descricao": "Cada aluno escreve o que diria à turma no terceiro dia para interromper o movimento."
+                    }
+                ],
+                "pensadores": [
+                    "Hannah Arendt",
+                    "Max Weber"
+                ],
+                "referencias": [
+                    "ARENDT, Hannah. Origens do totalitarismo.",
+                    "ARENDT, Hannah. Eichmann em Jerusalém."
+                ]
+            },
+            "temas": [
+                "direitos-humanos",
+                "educacao",
+                "para-debate",
+                "filosofia-politica",
+                "arendt",
+                "totalitarismo"
+            ],
+            "elenco": [
+                "Jürgen Vogel"
+            ],
+            "slides": [
+            ],
+            "titulo": "A Onda",
+            "videos": [
+            ],
+            "chamada": "A autocracia pode acontecer de novo?",
+            "direcao": [
+                "Dennis Gansel"
+            ],
+            "duracao": 107,
+            "generos": [
+                "Drama",
+                "Suspense"
+            ],
+            "idiomas": [
+                "alemão"
+            ],
+            "sinopse": "Durante uma semana de projetos sobre formas de governo, um professor alemão propõe um experimento prático sobre autocracia. Disciplina, uniforme e um nome comum transformam rapidamente a turma em um movimento coeso — e cada vez mais perigoso.",
+            "destaque": true,
+            "materiais": [
+            ],
+            "disciplinas": [
+                "sociologia",
+                "filosofia"
+            ],
+            "ondeAssistir": [
+                {
+                    "url": "https://www.justwatch.com/br/busca?q=A%20Onda",
+                    "rotulo": "Consultar serviços legais no JustWatch"
+                }
+            ],
+            "popularidade": 95,
+            "ordemDestaque": 4,
+            "tituloOriginal": "Die Welle"
+        },
+        {
+            "ano": 1999,
+            "arte": {
+                "c1": "#022012",
+                "c2": "#010805",
+                "motif": "code",
+                "accent": "#2bd46a",
+                "kicker": "Filosofia"
+            },
+            "pais": "Estados Unidos",
+            "slug": "matrix",
+            "tipo": "filme",
+            "faixa": [
+                "Ensino Médio",
+                "Ensino Superior"
+            ],
+            "ficha": {
+                "dicas": [
+                    "Para turmas com menos tempo, a cena das pílulas sozinha já sustenta uma aula.",
+                    "O filme tem muitas cenas de ação armada; selecione trechos conforme a turma."
+                ],
+                "plano": [
+                    {
+                        "etapa": "Experimento mental",
+                        "tempo": "10 min",
+                        "descricao": "Pergunte: como provar agora que você não está sonhando?"
+                    },
+                    {
+                        "etapa": "Exibição",
+                        "tempo": "136 min (ou trechos)",
+                        "descricao": "Exiba o filme ou as cenas da escolha das pílulas e do despertar."
+                    },
+                    {
+                        "etapa": "Texto",
+                        "tempo": "20 min",
+                        "descricao": "Leitura da Primeira Meditação de Descartes."
+                    },
+                    {
+                        "etapa": "Debate",
+                        "tempo": "25 min",
+                        "descricao": "Comparação entre Descartes, Platão e o filme em quadro de três colunas."
+                    }
+                ],
+                "porQue": "Uma das formas mais eficazes de apresentar problemas clássicos da teoria do conhecimento: como sei que o mundo é real? Conecta Platão, Descartes e Baudrillard com uma linguagem que os alunos conhecem.",
+                "roteiro": [
+                    {
+                        "momento": "O coelho branco",
+                        "observar": "Referência a Alice e o convite a atravessar a aparência."
+                    },
+                    {
+                        "momento": "As pílulas",
+                        "observar": "A escolha entre conforto e verdade."
+                    },
+                    {
+                        "momento": "O despertar",
+                        "observar": "A dor da saída, como na caverna."
+                    },
+                    {
+                        "momento": "O jantar de Cypher",
+                        "observar": "A defesa da ilusão como escolha consciente."
+                    }
+                ],
+                "conceitos": [
+                    "Aparência e realidade",
+                    "Dúvida metódica",
+                    "Simulacro",
+                    "Livre-arbítrio",
+                    "Conhecimento"
+                ],
+                "objetivos": [
+                    "Relacionar a narrativa ao argumento do sonho e do gênio maligno de Descartes",
+                    "Comparar a saída da Matrix com a saída da caverna",
+                    "Introduzir o conceito de simulacro"
+                ],
+                "perguntas": [
+                    "Se a experiência for idêntica, importa se o mundo é real?",
+                    "Você tomaria a pílula vermelha ou a azul? Por quê?",
+                    "Cypher prefere voltar à ilusão. Ele está errado?",
+                    "Quais seriam as Matrix do nosso tempo?"
+                ],
+                "atividades": [
+                    {
+                        "nome": "Três cavernas",
+                        "descricao": "Os alunos montam um quadro comparativo entre a caverna de Platão, o gênio maligno de Descartes e a Matrix."
+                    },
+                    {
+                        "nome": "Pílula vermelha",
+                        "descricao": "Texto argumentativo defendendo uma das escolhas com base em pelo menos um filósofo estudado."
+                    }
+                ],
+                "pensadores": [
+                    "Platão",
+                    "René Descartes",
+                    "Jean Baudrillard"
+                ],
+                "referencias": [
+                    "PLATÃO. A República, livro VII.",
+                    "DESCARTES, René. Meditações metafísicas.",
+                    "BAUDRILLARD, Jean. Simulacros e simulação."
+                ]
+            },
+            "temas": [
+                "mito-da-caverna",
+                "duvida-metodica",
+                "baudrillard",
+                "platao",
+                "descartes",
+                "teoria-do-conhecimento"
+            ],
+            "elenco": [
+                "Keanu Reeves",
+                "Laurence Fishburne",
+                "Carrie-Anne Moss"
+            ],
+            "slides": [
+            ],
+            "titulo": "Matrix",
+            "videos": [
+            ],
+            "chamada": "O que é real?",
+            "direcao": [
+                "Lana Wachowski",
+                "Lilly Wachowski"
+            ],
+            "duracao": 136,
+            "generos": [
+                "Ficção científica",
+                "Ação"
+            ],
+            "idiomas": [
+                "inglês"
+            ],
+            "sinopse": "O programador Thomas Anderson leva uma vida dupla como o hacker Neo, até ser contatado por um grupo que revela uma verdade perturbadora: o mundo que ele conhece é uma simulação criada para manter a humanidade sob controle.",
+            "destaque": false,
+            "materiais": [
+            ],
+            "disciplinas": [
+                "filosofia"
+            ],
+            "ondeAssistir": [
+                {
+                    "url": "https://www.justwatch.com/br/busca?q=Matrix",
+                    "rotulo": "Consultar serviços legais no JustWatch"
+                }
+            ],
+            "popularidade": 93,
+            "ordemDestaque": null,
+            "tituloOriginal": "The Matrix"
+        },
+        {
+            "ano": 2020,
+            "arte": {
+                "c1": "#14103a",
+                "c2": "#05040f",
+                "motif": "nodes",
+                "accent": "#ff3d5a",
+                "kicker": "Documentário · Sociologia"
+            },
+            "pais": "Estados Unidos",
+            "slug": "o-dilema-das-redes",
+            "tipo": "documentario",
+            "faixa": [
+                "Ensino Médio",
+                "Ensino Superior"
+            ],
+            "ficha": {
+                "dicas": [
+                    "Trabalhe também a leitura crítica do próprio documentário: ele também quer convencer.",
+                    "Evite tom moralista sobre o uso de celular; foque na estrutura econômica."
+                ],
+                "plano": [
+                    {
+                        "etapa": "Levantamento",
+                        "tempo": "10 min",
+                        "descricao": "Os alunos verificam o tempo de tela semanal no próprio celular (opcional e anônimo)."
+                    },
+                    {
+                        "etapa": "Exibição",
+                        "tempo": "94 min",
+                        "descricao": "Exibição do documentário."
+                    },
+                    {
+                        "etapa": "Conceito",
+                        "tempo": "20 min",
+                        "descricao": "Explique a ideia de capitalismo de vigilância e de economia da atenção."
+                    },
+                    {
+                        "etapa": "Debate crítico",
+                        "tempo": "25 min",
+                        "descricao": "Debate, incluindo a pergunta sobre o que o documentário deixou de fora."
+                    }
+                ],
+                "porQue": "Documentário próximo da realidade dos alunos, que permite discutir economia da atenção, uso de dados e efeitos das redes na sociedade. Funciona como ponto de partida para pensamento crítico sobre tecnologia.",
+                "roteiro": [
+                    {
+                        "momento": "Entrevistas iniciais",
+                        "observar": "Quem são os entrevistados e de onde falam."
+                    },
+                    {
+                        "momento": "A dramatização da família",
+                        "observar": "O recurso ficcional como estratégia de convencimento."
+                    },
+                    {
+                        "momento": "Os algoritmos personificados",
+                        "observar": "Como o filme torna visível o invisível."
+                    },
+                    {
+                        "momento": "Encerramento",
+                        "observar": "As soluções propostas e seus limites."
+                    }
+                ],
+                "conceitos": [
+                    "Economia da atenção",
+                    "Capitalismo de vigilância",
+                    "Algoritmos",
+                    "Polarização",
+                    "Modernidade líquida"
+                ],
+                "objetivos": [
+                    "Compreender como plataformas digitais lucram com atenção e dados",
+                    "Analisar efeitos sociais e políticos dos algoritmos",
+                    "Desenvolver postura crítica em relação ao próprio uso das redes"
+                ],
+                "perguntas": [
+                    "Se o serviço é gratuito, o que estamos pagando?",
+                    "Os algoritmos apenas mostram o que queremos ou moldam o que queremos?",
+                    "De quem é a responsabilidade: das empresas, dos governos ou dos usuários?",
+                    "O documentário exagera em algum ponto? Que argumentos faltaram?"
+                ],
+                "atividades": [
+                    {
+                        "nome": "Auditoria do feed",
+                        "descricao": "Cada aluno analisa as 20 primeiras publicações do seu feed e classifica o que é anúncio, entretenimento, notícia e opinião."
+                    },
+                    {
+                        "nome": "Contrapontos",
+                        "descricao": "Pesquisa de críticas ao documentário e produção de um parágrafo avaliando seus argumentos."
+                    }
+                ],
+                "pensadores": [
+                    "Shoshana Zuboff",
+                    "Zygmunt Bauman"
+                ],
+                "referencias": [
+                    "ZUBOFF, Shoshana. A era do capitalismo de vigilância.",
+                    "BAUMAN, Zygmunt. Modernidade líquida."
+                ]
+            },
+            "temas": [
+                "cultura-e-sociedade",
+                "para-debate",
+                "zuboff",
+                "trabalho-e-capitalismo",
+                "vigilancia",
+                "bauman"
+            ],
+            "elenco": [
+                "Tristan Harris"
+            ],
+            "slides": [
+            ],
+            "titulo": "O Dilema das Redes",
+            "videos": [
+            ],
+            "chamada": "Quem está usando quem?",
+            "direcao": [
+                "Jeff Orlowski"
+            ],
+            "duracao": 94,
+            "generos": [
+                "Documentário"
+            ],
+            "idiomas": [
+                "inglês"
+            ],
+            "sinopse": "Ex-funcionários de grandes empresas de tecnologia explicam como as redes sociais são projetadas para capturar atenção, coletar dados e influenciar comportamentos, e discutem os efeitos disso sobre a saúde mental, a política e a vida em sociedade.",
+            "destaque": true,
+            "materiais": [
+            ],
+            "disciplinas": [
+                "sociologia",
+                "filosofia"
+            ],
+            "ondeAssistir": [
+                {
+                    "url": "https://www.justwatch.com/br/busca?q=O%20Dilema%20das%20Redes",
+                    "rotulo": "Consultar serviços legais no JustWatch"
+                }
+            ],
+            "popularidade": 90,
+            "ordemDestaque": 5,
+            "tituloOriginal": "The Social Dilemma"
+        },
+        {
+            "ano": 1957,
+            "arte": {
+                "c1": "#1c1c1c",
+                "c2": "#060606",
+                "motif": "table",
+                "accent": "#e50914",
+                "kicker": "Ética · Justiça"
+            },
+            "pais": "Estados Unidos",
+            "slug": "12-homens-e-uma-sentenca",
+            "tipo": "filme",
+            "faixa": [
+                "Ensino Médio",
+                "Ensino Superior"
+            ],
+            "ficha": {
+                "dicas": [
+                    "O filme é em preto e branco e tem ritmo de teatro; contextualize antes da exibição.",
+                    "Ótimo para avaliar argumentação escrita em seguida."
+                ],
+                "plano": [
+                    {
+                        "etapa": "Situação-problema",
+                        "tempo": "10 min",
+                        "descricao": "Apresente um caso simples e peça um veredito rápido da turma."
+                    },
+                    {
+                        "etapa": "Exibição",
+                        "tempo": "96 min",
+                        "descricao": "Exibição do filme."
+                    },
+                    {
+                        "etapa": "Análise",
+                        "tempo": "25 min",
+                        "descricao": "Grupos mapeiam argumentos e falácias de três jurados diferentes."
+                    },
+                    {
+                        "etapa": "Retomada",
+                        "tempo": "15 min",
+                        "descricao": "Volte ao caso inicial: a turma mudaria seu veredito com mais tempo de discussão?"
+                    }
+                ],
+                "porQue": "Uma aula de argumentação em uma única sala. Permite trabalhar justiça, preconceito, dúvida razoável e a força do diálogo, além de lógica e falácias.",
+                "roteiro": [
+                    {
+                        "momento": "A primeira votação",
+                        "observar": "A pressão da maioria e o voto isolado."
+                    },
+                    {
+                        "momento": "O canivete",
+                        "observar": "A prova que parecia definitiva."
+                    },
+                    {
+                        "momento": "O discurso preconceituoso",
+                        "observar": "A reação silenciosa dos outros jurados."
+                    },
+                    {
+                        "momento": "A última votação",
+                        "observar": "O que realmente mudou na sala."
+                    }
+                ],
+                "conceitos": [
+                    "Justiça",
+                    "Argumentação",
+                    "Falácias",
+                    "Preconceito",
+                    "Dúvida razoável",
+                    "Deliberação"
+                ],
+                "objetivos": [
+                    "Identificar argumentos, premissas e falácias nas falas dos jurados",
+                    "Discutir a relação entre justiça, preconceito e opinião",
+                    "Valorizar o diálogo racional como forma de decisão coletiva"
+                ],
+                "perguntas": [
+                    "O jurado nº 8 sabe que o réu é inocente? O que ele realmente defende?",
+                    "Que preconceitos influenciam o voto de cada jurado?",
+                    "Unanimidade garante justiça?",
+                    "Que semelhanças há entre o jurado nº 8 e Sócrates?"
+                ],
+                "atividades": [
+                    {
+                        "nome": "Caça às falácias",
+                        "descricao": "Lista de falácias (ad hominem, apelo à emoção, generalização) para identificar nas falas do filme."
+                    },
+                    {
+                        "nome": "Júri simulado",
+                        "descricao": "A turma delibera sobre um caso fictício seguindo regras de argumentação."
+                    }
+                ],
+                "pensadores": [
+                    "Sócrates",
+                    "Platão",
+                    "Hannah Arendt"
+                ],
+                "referencias": [
+                    "PLATÃO. Apologia de Sócrates.",
+                    "ARENDT, Hannah. Verdade e política (em Entre o passado e o futuro)."
+                ]
+            },
+            "temas": [
+                "direitos-humanos",
+                "para-debate",
+                "filosofia-politica",
+                "justica",
+                "etica-e-moral"
+            ],
+            "elenco": [
+                "Henry Fonda",
+                "Lee J. Cobb"
+            ],
+            "slides": [
+            ],
+            "titulo": "12 Homens e uma Sentença",
+            "videos": [
+            ],
+            "chamada": "Uma dúvida razoável muda tudo.",
+            "direcao": [
+                "Sidney Lumet"
+            ],
+            "duracao": 96,
+            "generos": [
+                "Drama"
+            ],
+            "idiomas": [
+                "inglês"
+            ],
+            "sinopse": "Doze jurados se reúnem para decidir o destino de um jovem acusado de assassinato. A condenação parece certa, até que um deles se recusa a votar sem antes discutir o caso. Em uma sala abafada, argumentos, preconceitos e convicções são colocados à prova.",
+            "destaque": false,
+            "materiais": [
+            ],
+            "disciplinas": [
+                "filosofia",
+                "sociologia"
+            ],
+            "ondeAssistir": [
+                {
+                    "url": "https://www.justwatch.com/br/busca?q=12%20Homens%20e%20uma%20Sentença",
+                    "rotulo": "Consultar serviços legais no JustWatch"
+                }
+            ],
+            "popularidade": 86,
+            "ordemDestaque": null,
+            "tituloOriginal": "12 Angry Men"
+        },
+        {
+            "ano": 1997,
+            "arte": {
+                "c1": "#3a0a10",
+                "c2": "#0c0204",
+                "motif": "sun",
+                "accent": "#ffb547",
+                "kicker": "Direitos humanos"
+            },
+            "pais": "Itália",
+            "slug": "a-vida-e-bela",
+            "tipo": "filme",
+            "faixa": [
+                "Ensino Médio",
+                "Ensino Superior"
+            ],
+            "ficha": {
+                "dicas": [
+                    "Contextualize historicamente antes da exibição.",
+                    "Esteja atento a alunos com histórias familiares ligadas a perseguições e guerras."
+                ],
+                "plano": [
+                    {
+                        "etapa": "Contexto",
+                        "tempo": "15 min",
+                        "descricao": "Breve exposição sobre o fascismo italiano, as leis raciais e os campos de concentração."
+                    },
+                    {
+                        "etapa": "Exibição",
+                        "tempo": "116 min",
+                        "descricao": "Exibição do filme."
+                    },
+                    {
+                        "etapa": "Leitura",
+                        "tempo": "20 min",
+                        "descricao": "Leitura da Declaração Universal dos Direitos Humanos (artigos 1 a 5)."
+                    },
+                    {
+                        "etapa": "Debate",
+                        "tempo": "25 min",
+                        "descricao": "Debate com as perguntas propostas."
+                    }
+                ],
+                "porQue": "Une humor e tragédia para tratar do Holocausto, da dignidade humana e da proteção da infância. Abre espaço para discutir memória histórica, direitos humanos e o sentido da vida diante do horror.",
+                "roteiro": [
+                    {
+                        "momento": "Primeira parte",
+                        "observar": "O tom de comédia romântica e os sinais do fascismo ao fundo."
+                    },
+                    {
+                        "momento": "O cavalo pintado",
+                        "observar": "O antissemitismo entrando na vida privada."
+                    },
+                    {
+                        "momento": "A tradução das regras",
+                        "observar": "O humor como escudo para a criança."
+                    },
+                    {
+                        "momento": "O desfecho",
+                        "observar": "O sentido do título."
+                    }
+                ],
+                "conceitos": [
+                    "Dignidade humana",
+                    "Holocausto",
+                    "Memória",
+                    "Banalidade do mal",
+                    "Esperança"
+                ],
+                "objetivos": [
+                    "Contextualizar o Holocausto e a perseguição aos judeus na Segunda Guerra",
+                    "Discutir a dignidade humana como fundamento dos direitos humanos",
+                    "Refletir sobre os limites do humor diante da tragédia"
+                ],
+                "perguntas": [
+                    "É legítimo usar humor para falar do Holocausto?",
+                    "Guido mente para o filho. Essa mentira é moralmente justificável?",
+                    "O que o filme nos diz sobre resistir quando não há saída?",
+                    "Por que é importante preservar a memória desses acontecimentos?"
+                ],
+                "atividades": [
+                    {
+                        "nome": "Carta de Giosuè",
+                        "descricao": "Os alunos escrevem uma carta do filho, já adulto, sobre o que o pai fez por ele."
+                    },
+                    {
+                        "nome": "Memória viva",
+                        "descricao": "Pesquisa sobre testemunhos de sobreviventes e museus do Holocausto."
+                    }
+                ],
+                "pensadores": [
+                    "Hannah Arendt",
+                    "Primo Levi",
+                    "Viktor Frankl"
+                ],
+                "referencias": [
+                    "LEVI, Primo. É isto um homem?",
+                    "FRANKL, Viktor. Em busca de sentido.",
+                    "ARENDT, Hannah. Eichmann em Jerusalém.",
+                    "ONU. Declaração Universal dos Direitos Humanos (1948)."
+                ]
+            },
+            "temas": [
+                "banalidade-do-mal",
+                "direitos-humanos",
+                "arendt",
+                "etica-e-moral"
+            ],
+            "elenco": [
+                "Roberto Benigni",
+                "Nicoletta Braschi"
+            ],
+            "slides": [
+            ],
+            "titulo": "A Vida é Bela",
+            "videos": [
+            ],
+            "chamada": "A imaginação como forma de resistência.",
+            "direcao": [
+                "Roberto Benigni"
+            ],
+            "duracao": 116,
+            "generos": [
+                "Drama",
+                "Comédia"
+            ],
+            "idiomas": [
+                "italiano"
+            ],
+            "sinopse": "Na Itália dos anos 1930, um livreiro judeu conquista a mulher que ama com humor e imaginação. Anos depois, quando ele e o filho são levados a um campo de concentração, ele transforma o horror em um jogo para proteger a criança.",
+            "destaque": false,
+            "materiais": [
+            ],
+            "disciplinas": [
+                "filosofia",
+                "sociologia"
+            ],
+            "ondeAssistir": [
+                {
+                    "url": "https://www.justwatch.com/br/busca?q=A%20Vida%20é%20Bela",
+                    "rotulo": "Consultar serviços legais no JustWatch"
+                }
+            ],
+            "popularidade": 84,
+            "ordemDestaque": null,
+            "tituloOriginal": "La vita è bella"
+        }
+    ],
+    "categorias": [
+        {
+            "nome": "Filmes para debates",
+            "slug": "para-debate",
+            "tipo": "colecao"
+        },
+        {
+            "nome": "Alegoria da caverna",
+            "slug": "mito-da-caverna",
+            "tipo": "conceito"
+        },
+        {
+            "nome": "Alienação",
+            "slug": "alienacao",
+            "tipo": "conceito"
+        },
+        {
+            "nome": "Banalidade do mal",
+            "slug": "banalidade-do-mal",
+            "tipo": "conceito"
+        },
+        {
+            "nome": "Dúvida metódica",
+            "slug": "duvida-metodica",
+            "tipo": "conceito"
+        },
+        {
+            "nome": "Esclarecimento",
+            "slug": "esclarecimento",
+            "tipo": "conceito"
+        },
+        {
+            "nome": "Justiça",
+            "slug": "justica",
+            "tipo": "conceito"
+        },
+        {
+            "nome": "Totalitarismo",
+            "slug": "totalitarismo",
+            "tipo": "conceito"
+        },
+        {
+            "nome": "Vigilância",
+            "slug": "vigilancia",
+            "tipo": "conceito"
+        },
+        {
+            "nome": "Guy Debord",
+            "slug": "debord",
+            "tipo": "pensador"
+        },
+        {
+            "nome": "Hannah Arendt",
+            "slug": "arendt",
+            "tipo": "pensador"
+        },
+        {
+            "nome": "Henry David Thoreau",
+            "slug": "thoreau",
+            "tipo": "pensador"
+        },
+        {
+            "nome": "Immanuel Kant",
+            "slug": "kant",
+            "tipo": "pensador"
+        },
+        {
+            "nome": "Jean Baudrillard",
+            "slug": "baudrillard",
+            "tipo": "pensador"
+        },
+        {
+            "nome": "Karl Marx",
+            "slug": "marx",
+            "tipo": "pensador"
+        },
+        {
+            "nome": "Max Weber",
+            "slug": "weber",
+            "tipo": "pensador"
+        },
+        {
+            "nome": "Michel Foucault",
+            "slug": "foucault",
+            "tipo": "pensador"
+        },
+        {
+            "nome": "Platão",
+            "slug": "platao",
+            "tipo": "pensador"
+        },
+        {
+            "nome": "René Descartes",
+            "slug": "descartes",
+            "tipo": "pensador"
+        },
+        {
+            "nome": "Shoshana Zuboff",
+            "slug": "zuboff",
+            "tipo": "pensador"
+        },
+        {
+            "nome": "Zygmunt Bauman",
+            "slug": "bauman",
+            "tipo": "pensador"
+        },
+        {
+            "nome": "Cultura e sociedade",
+            "slug": "cultura-e-sociedade",
+            "tipo": "tema"
+        },
+        {
+            "nome": "Direitos humanos",
+            "slug": "direitos-humanos",
+            "tipo": "tema"
+        },
+        {
+            "nome": "Educação e autonomia",
+            "slug": "educacao",
+            "tipo": "tema"
+        },
+        {
+            "nome": "Filosofia política",
+            "slug": "filosofia-politica",
+            "tipo": "tema"
+        },
+        {
+            "nome": "Teoria do conhecimento",
+            "slug": "teoria-do-conhecimento",
+            "tipo": "tema"
+        },
+        {
+            "nome": "Trabalho e capitalismo",
+            "slug": "trabalho-e-capitalismo",
+            "tipo": "tema"
+        },
+        {
+            "nome": "Ética e moral",
+            "slug": "etica-e-moral",
+            "tipo": "tema"
+        }
+    ]
+}
